@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 21468,
+  "expoServerNgrokUrl": "https://4f-4yg.anonymous.bedtimestories.exp.direct",
+  "packagerNgrokUrl": "https://packager.4f-4yg.anonymous.bedtimestories.exp.direct",
+  "ngrokPid": 21216,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
